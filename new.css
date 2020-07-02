@@ -103,7 +103,7 @@ body{
 .img1{
      max-height: 100vh;
      max-width: 103%;
-     margin-bottom: 50px;
+     margin-bottom: 100px;
 	margin-left: 50px;
   
         
@@ -128,7 +128,7 @@ margin-top: 40px;
     border-radius: 10px;
 }
 .box:before{
-    content:'';
+    
       position: absolute;
     top:-2px;
     right:-2px;
@@ -138,7 +138,6 @@ margin-top: 40px;
     z-index: -1;
 }
 .box:after{
-    content:'';
     position: absolute;
     top:-2px;
     right:-2px;
