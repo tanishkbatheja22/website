@@ -110,7 +110,7 @@ margin-top: 40px;
     left:-2px;
     bottom:-2px;
     background:#fff;
-  z-index: -2;
+  z-index: -1;
   
 }
 .box:after{
@@ -121,7 +121,7 @@ margin-top: 40px;
     left:-2px;
     bottom:-2px;
     background:#fff;
-  z-index: -3;
+  z-index: -2;
     filter:blur(40px);
 }
 .box:before,
