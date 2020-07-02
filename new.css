@@ -102,11 +102,11 @@ body{
 }
 .img1{
      max-height: 100vh;
-     max-width: 100%;
+     max-width: 103%;
      margin-bottom: 50px;
-	margin-left: 50x;
-     background-size: cover;
-         background-image: url(image/final3.jpg) ; 
+	margin-left: 50px;
+  
+        
   
      
 }
