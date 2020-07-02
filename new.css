@@ -96,7 +96,7 @@ margin-bottom: 40px;
 
 margin-top: 40px;
    
-    position: relative;
+    position: fixed;
     display:flex;
     justify-content: center;
     align-items: center;
