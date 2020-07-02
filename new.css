@@ -21,8 +21,8 @@ body{
     
 }
 .logo img{
-    max-height:250px;
-    max-width: 250px;
+    max-height:170px;
+    max-width: 170px;
     
    
      image-orientation: flip;
@@ -38,15 +38,15 @@ body{
             justify-content: center;
             align-items: center;
             height: 35px;
-	margin-right:25px;
+	margin-right:28px;
         
 }
 .navigation-menu a{
   text-decoration: none;
             margin: 15px 2px;
             font-size: 15px;
-            color: white;
-            border: silver;
+            color: #fff;
+            border: #808080;
  
   
     transition: 0.6s ease;
@@ -150,9 +150,10 @@ margin-top: 40px;
          margin-top: 20px;
 }
 .img2{
-     max-height: 50%;
-     max-width: 80%;
+     max-height: 70%;
+     max-width: 90%;
      margin-bottom: 50px;
+	float:right;
 }
 
 h3{
