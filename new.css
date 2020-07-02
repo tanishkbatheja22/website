@@ -49,8 +49,8 @@ body{
     
 }
 .logo img{
-    max-height:200px;
-    max-width: 200px;
+    max-height:250px;
+    max-width: 250px;
     
    
      image-orientation: flip;
@@ -70,7 +70,7 @@ body{
 }
 .navigation-menu a{
   text-decoration: none;
-            margin: 20px 20px;
+            margin: 15px 2px;
             font-size: 20px;
             color: white;
             border: silver;
