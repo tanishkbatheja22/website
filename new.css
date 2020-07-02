@@ -44,7 +44,7 @@ body{
 .navigation-menu a{
   text-decoration: none;
             margin: 15px 2px;
-            font-size: 20px;
+            font-size: 15px;
             color: white;
             border: silver;
  
@@ -102,11 +102,9 @@ margin-top: 40px;
     align-items: center;
     border-radius: 10px;
 }
-    
-    
-.box:before{
-	content:"";
-      position: fixed;
+    .box:before{
+    content:'';
+      position: absolute;
     top:-2px;
     right:-2px;
     left:-2px;
@@ -115,8 +113,8 @@ margin-top: 40px;
     z-index: -1;
 }
 .box:after{
-	content:"";
-    position: fixed;
+    content:'';
+    position: absolute;
     top:-2px;
     right:-2px;
     left:-2px;
@@ -140,6 +138,8 @@ margin-top: 40px;
     
     
 }
+    
+
 .image{
     
     margin-left:1%;
