@@ -65,7 +65,8 @@ body{
             display: flex;
             justify-content: center;
             align-items: center;
-            height: 50px;
+            height: 35px;
+	margin-right:20px;
         
 }
 .navigation-menu a{
@@ -99,12 +100,14 @@ body{
    display: flex;
             justify-content: center;
             align-items: center;
+	
 }
 .img1{
      max-height: 100vh;
      max-width: 103%;
      margin-bottom: 100px;
 	margin-left: 50px;
+	float:right;
   
         
   
