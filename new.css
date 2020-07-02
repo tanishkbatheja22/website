@@ -45,13 +45,12 @@ body{
             border: 2px solid silver;
             position: fixed;
             width: 100%;
-	z-index: 1;
-                 
+                 z-index: 1;
     
 }
 .logo img{
-    max-height:200px;
-    max-width: 200px;
+    max-height:170px;
+    max-width: 170px;
     
    
      image-orientation: flip;
@@ -129,7 +128,8 @@ margin-top: 40px;
 }
 .box:before{
     content:'';
-      position: absolute;
+      position:absolute;
+         
     top:-2px;
     right:-2px;
     left:-2px;
@@ -199,6 +199,39 @@ h3:hover{
     background: #39ff14;
     box-shadow: 0 0 50px #39ff14;
 }
+  .intra {
+
+            border: 2px solid skyblue;
+            box-shadow: 3px 3px 10px 5px rgb(55, 140, 173), -3px -3px 10px 5px rgb(55, 140, 173);
+            margin: 34px 45px;
+            padding: 20px;
+
+        }
+
+        .p5 {
+            text-align: center;
+            font-weight: bold;
+            font-size: 20px;
+        }
+
+        .bb {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+        }
+
+        .btn {
+            padding: 12px 13px;
+            background-color: #245580;
+            color: #000;
+        }
+
+        .p6 {
+            text-align: center;
+            font-weight: bold;
+        }
+
 footer{
     position:fixed;
      padding: 10px 0;
